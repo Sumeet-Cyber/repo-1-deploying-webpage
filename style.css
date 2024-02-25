@@ -1,0 +1,73 @@
+main{
+    position: relative;
+    width: 500px;
+}
+.main{
+    padding: 10px;
+    height: 150px;
+    width: 150px;
+    background-image: url();
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 60p;
+}
+
+.lang{
+
+    position: absolute;
+}
+
+.english{
+    top: 0px;
+    left: 100px;
+}
+
+.hindi{
+    top: 50px;
+    left: 90px;
+}
+
+.spanish{
+    top: 100px;
+    left: 110px;
+}
+
+.german{
+    top: 0px;
+    right: 110px;
+}
+
+.punjabi{
+    top: 50px;
+    right: 100px;
+}
+
+.tamil{
+    top: 100px;
+    right: 130px;
+}
+
+.description{
+    display: inline-block;
+    height: 100;
+    width: 100;
+}
+
+.card{
+    display: inline-block;
+}
+
+.wikimedia{
+    display: inline;
+}
+
+.wikimedia a{
+    text-decoration: none;
+}
+#Wikimedia-logo_black{
+    display: inline;
+}
+.app{
+    background-color: rgb(248, 248, 248);
+    font-size: 50%;
+}
